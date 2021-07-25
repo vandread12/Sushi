@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-reactsushi-dev-14156-authRole",
+      "UnauthRoleArn": "arn:aws:iam::814286635591:role/amplify-reactsushi-dev-14156-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::814286635591:role/amplify-reactsushi-dev-14156-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-reactsushi-dev-14156-deployment",
+      "UnauthRoleName": "amplify-reactsushi-dev-14156-unauthRole",
+      "StackName": "amplify-reactsushi-dev-14156",
+      "StackId": "arn:aws:cloudformation:us-east-1:814286635591:stack/amplify-reactsushi-dev-14156/6b7dcc20-ed13-11eb-9e52-0a4ced5e22b5",
+      "AmplifyAppId": "d1qx3z4aliqdjv"
+    }
+  }
+}
